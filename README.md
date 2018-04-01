@@ -1,4 +1,8 @@
-# demo-selenium-grid
+# Automated Testing with Selenium
+* Basic of Selenium
+* Selenium with Java
+* Selenium Grid
+* Better testing with Selenium
 
 
 Step to run with Docker compose
