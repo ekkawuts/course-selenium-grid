@@ -8,8 +8,6 @@ services:
 
   chrome:
     image: selenium/node-chrome
-    volumes:
-      - data:/dev/shm
     depends_on:
       - hub
     environment:
