@@ -13,3 +13,9 @@ $docker-compose scale chrome=5
 ```
 
 Access to Hub via browser  http://localhost:444
+
+
+## Resources
+* [Selenium Grid](https://www.seleniumhq.org/projects/grid/)
+* [Docker with Selenium](https://github.com/SeleniumHQ/docker-selenium)
+* [Sauce Labs](https://saucelabs.com/)
